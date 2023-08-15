@@ -26,11 +26,12 @@ const DUMMY_MEALS = [
 ];
 
 const AvailableMeals = () => {
-  const mealList = DUMMY_MEALS.map((meals) => {
-    <ul>
-      <li></li>
-    </ul>;
-  });
-  return;
+  const mealList = DUMMY_MEALS.map((meals) => <li>{meals.name}</li>);
+
+  return (
+    <section>
+      <ul>{mealList}</ul>
+    </section>
+  );
 };
 export default AvailableMeals;
