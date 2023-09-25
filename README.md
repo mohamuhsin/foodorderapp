@@ -8,4 +8,4 @@ you can check it out at https://mohamuhsin.com how it looks and it's functionali
 
 This is a food order app made with react. it covered all concepts of react. like useState, UseEffect, Context, Redux and more!.
 
-you can check it out at https://mohamuhsin.com how it looks and
+you can check it out at https://mohamuhsin.com
